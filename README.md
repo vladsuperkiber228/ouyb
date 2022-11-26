@@ -1,3 +1,4 @@
+<!DOSTYPE html>
 <html>
     <h1 style=background color:lightgreen;color darkgreen text-align center;font-size:50px">Пицца 24</h1>
     <h2 style="background-color:firebrick;color:white;font size:30px">Виды пицц</h2>
