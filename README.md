@@ -167,6 +167,21 @@
             <td>Карамель, Шоколад, Клубничный</td>
             <td>30 рублей</td>
         </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Пирожок</td>
+            <td>Клубника, Малина, Вишня</td>
+            <td>30 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Пирожное Макарон</td>
+            <td>Карамель, Шоколад, Сироп</td>
+            <td>60 рублей</td>
+         </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Пана Котта</td>
+            <td>Малина, Клубника, Сироп</td>
+            <td>50 рублей</td>
+         </tr>
          <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
                     <tr style="border:1px solid firebrick">
             <td>Название</td>
@@ -192,6 +207,16 @@
             <td>Бургер с Беконом</td>
             <td>Большой, Средний, Маленький</td>
             <td>180, 120, 60 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>СырныйБургер</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>СырныйБеконБургер</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>300, 200, 100 рублей</td>
         </tr>
     </table>
     <p><img src=""/></p>
