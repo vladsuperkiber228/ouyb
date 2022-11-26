@@ -22,8 +22,19 @@
             <td>Морская</td>
             <td>Лосось, мидии, креветки, оливки, сыр</td>
         <td>410 рублей</td>
+        </tr>
+        <tr style="border 1px solid firebrick">
+            <td>Пеперони пицца</td>
+            <td>Моцарела, сырокопчённая колбоса, чеснок, перец чили, помидоры</td>
+            <td>225 рублей</td>
+        </tr>
+        <tr style="border 1px solid firebrick">
+            <td>Гавайская пицца</td>
+            <td>Ананасы, куринное филе, ветчина, сыр, томатная паста</td>
+            <td>210 рублей</td>
+        </tr>
         <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
-                    <tr style="border:1px solid firebrick">
+        <tr style="border:1px solid firebrick">
             <td>Название</td>
             <td>Размеры</td>
             <td>Цена</td>
