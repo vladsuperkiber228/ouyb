@@ -57,7 +57,23 @@
         <tr style=border:1px solid firebrick">
             <td>Fanta</td>
             <td>Большой, Средний, Маленький</td>
-            <td>75, 50, 25 рублей</td>            
+            <td>75, 50, 25 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Тархун</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Лимонад</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Квас</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>
+        </tr>
               <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
                     <tr style="border:1px solid firebrick">
             <td>Название</td>
@@ -93,6 +109,89 @@
             <td>Тысяча островов</td>
             <td>Большой, Средний, Маленький</td>
             <td>30, 20, 10 рублей</td> 
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Штук</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Нагетсы</td>
+            <td>9, 6, 3</td>
+            <td>90, 60, 30 рублей</td> 
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Стрипсы</td>
+            <td>9, 6, 3</td>
+            <td>90, 60, 30 рублей</td> 
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Куринные ножки</td>
+            <td>9, 6, 3</td>
+            <td>90, 60, 30 рублей</td> 
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Куринные крылышки</td>
+            <td>9, 6, 3</td>
+            <td>90, 60, 30 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Картофель фри</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>70, 50, 25 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Картофель по деревенски</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>90, 60, 30 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Добавки</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Пончик</td>
+            <td>Шоколадный, Клубничный, Ванильный</td>
+            <td>40 рублей</td>
+         </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Пирожное</td>
+            <td>Карамель, Шоколад, Сироп</td>
+            <td>50 рублей</td>
+         </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Мороженное в рожке</td>
+            <td>Карамель, Шоколад, Клубничный</td>
+            <td>30 рублей</td>
+        </tr>
+         <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Острый Бургер</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>180, 120, 60 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Бургер с Курицей</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>90, 60, 30 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Бургер с Котлетой из Говядины</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Бургер с Беконом</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>180, 120, 60 рублей</td>
         </tr>
     </table>
     <p><img src=""/></p>
