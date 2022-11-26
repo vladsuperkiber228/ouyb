@@ -1,7 +1,7 @@
 <html>
      font family: sans-serif
-    <h1 style=background color:lightgreen;color darkgreen text-align center;font-size:50px">Pizza Hour</h1>
-    <h2 style="background-color:firebrick;color:white;font size:30px">Выбирай пиццу скорее</h2>
+    <h1 style=background color:lightgreen;color darkgreen text-align center;font-size:50px">Пицца 24</h1>
+    <h2 style="background-color:firebrick;color:white;font size:30px">Виды пицц</h2>
     <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
         <tr style="border:1px solid firebrick">
             <td>Название</td>
@@ -9,20 +9,20 @@
             <td>Цена</td>
         </tr>
         <tr style="border 1px solid firebrick">
-            <td>Гавайская</td>
-            <td>Курица, ананас, сыр, томатный соус</td>
-            <td>400 рублей</td>
+            <td>Моцарела</td>
+            <td>оливковое масло, чеснок, моцарела, томатный соус, сушеный орегано</td>
+            <td>275 рублей</td>
         </tr>
         <tr style="border:1px solid firebrick>
-            <td>Пеперони</td>
-            <td>Колбаса, соус, сыр, перец чёрный, паприка</td>
-            <td>450 рублей</td>
+            <td>Пицца 7 сыров</td>
+            <td>Сыр полутвердый, моцарелла, сыр бри, сыр дорблю, творожнный сыр, перец свежемолотый смесь </td>
+            <td>289 рублей</td>
         </tr>
         <tr style=border:1px solid firebrick">
             <td>Морская</td>
             <td>Лосось, мидии, креветки, оливки, сыр</td>
-            <td>600 рублей</td>
+            <td>410 рублей</td>
         </tr>
     </table>
-    <p><img src="https://www.google.com/search?q=%D0%BC%D1%83%D0%B4%D1%80%D1%8B%D0%B9+%D0%B4%D1%83%D0%B1&oq=&aqs=chrome.0.69i59i450l8.236056871j0j15&sourceid=chrome&ie=UTF-8#imgrc=dUVJ5LEP6UBl7M" width="550px"/></p>
+    <p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marieclaire.ru%2Ffood%2Fitaliya-doma-5-originalnyih-retseptov-pitstsyi%2F&psig=AOvVaw1e57TjcoO11r2GhJJ5NcIh&ust=1669533353287000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCY-MWmy_sCFQAAAAAdAAAAABAJ"/></p>
 </html>
