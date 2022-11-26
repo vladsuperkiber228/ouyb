@@ -21,8 +21,62 @@
         <tr style=border:1px solid firebrick">
             <td>Морская</td>
             <td>Лосось, мидии, креветки, оливки, сыр</td>
-            <td>410 рублей</td>
+        <td>410 рублей</td>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style="border 1px solid firebrick">
+            <td>Coca-Cola</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>
+        </tr>
+        <tr style="border:1px solid firebrick">
+            <td>Pepsi</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Fanta</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>75, 50, 25 рублей</td>            
+              <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Цена</td>
+        </tr>
+        <tr style="border 1px solid firebrick">
+            <td>Кетчуп</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td>
+        </tr>
+        <tr style="border:1px solid firebrick">
+            <td>Сырный</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Барбекю</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td>            
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Майонез</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td> 
+        </tr>                                        
+        <tr style=border:1px solid firebrick">
+            <td>Кетчунез</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td> 
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Тысяча островов</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>30, 20, 10 рублей</td> 
         </tr>
     </table>
-    <p><img src="![image](https://user-images.githubusercontent.com/118593079/204077453-e3c42217-f343-45a0-952c-4bb8375b58a3.png)"/></p>
+    <p><img src=""/></p>
 </html>
