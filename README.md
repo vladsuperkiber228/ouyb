@@ -1,6 +1,7 @@
 <!DOSTYPE html>
 <html>
     <h1 style=background color:lightgreen;color darkgreen text-align center;font-size:50px">Пицца 24</h1>
+    <p><img src=""/>original_6053fbb6266a7d6bd324d8e9_60b3072946c3d</p>
     <h2 style="background-color:firebrick;color:white;font size:30px">Виды пицц</h2>
     <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
         <tr style="border:1px solid firebrick">
@@ -424,6 +425,51 @@
             <td>Большой, Средний , Маленький</td>
             <td>300, 200, 100 рублей</td>
         </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Жаренные овощи</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>270, 180, 90 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шашлык Рыба</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>450, 300, 150 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк клубника</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>126, 84, 42 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк малина</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>126, 84, 42 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк ваниль</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>126, 84, 42 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк попкорн</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>126, 84, 42 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк шоколад</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>126, 84, 42 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Милкшейк ШоколадоОреховый</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
     </table>
-    <p><img src=""/></p>
 </html>
