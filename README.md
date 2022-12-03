@@ -218,6 +218,212 @@
             <td>Большой, Средний, Маленький</td>
             <td>300, 200, 100 рублей</td>
         </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Шаурма с мясом</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шаурма с курицей</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>СырнаяШаурма</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>180, 120, 60 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шаурма с Беконом</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>210, 140, 70 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>СыроБеконнаяШаурма</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>240, 160, 80 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шаурма со Свежими овощами</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>165, 110, 55 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Чак Чак</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>180, 120, 60 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Баурсак</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>225, 150, 75 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Самса</td>
+            <td>Большая, Средняя, Маленькая</td>
+            <td>90, 60, 30 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Вак беляш</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>105, 70, 35 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Беляш</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>90, 60, 30 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Айран</td>
+            <td>Большой, Средний, Маленький</td>
+            <td>140, 70, 35 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Количество</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Блины</td>
+            <td>20, 10, 1 блин</td>
+            <td>100, 50, 5 рублей</td>
+        </tr>
+         <tr style=border:1px solid firebrick">
+            <td>Блины с мясом</td>
+            <td>20, 10, 1 блин</td>
+            <td>200, 100, 10 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Блины с малиной</td>
+            <td>20, 10, 1 блин</td>
+            <td>300, 150, 15 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Блины с творогом</td>
+            <td>20, 10, 1 блин</td>
+            <td>400, 200, 20 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Панкейки</td>
+            <td>20, 10, 1 панкейк</td>
+            <td>200, 100, 10 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Блины с клубникой</td>
+            <td>20, 10, 1 блинов</td>
+            <td>240, 120, 12 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Чай чёрный</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>105, 70, 35 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Чай зелённый</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>105, 70, 35 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Иван Чай</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>120, 80, 40 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Чай с молоком</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>108, 72, 36 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>БелыйЧай</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>111, 74, 37 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Чай с Чабрецом</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>135, 90, 45 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Экспрессо</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>105, 70, 35 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Доппио</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>120, 80, 40 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Капучино</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>150, 100, 50 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Американо</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>135, 90, 45 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Романо</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>180, 120, 60 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Кофе Американо</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>195, 130, 65 рублей</td>
+        </tr>
+        <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+                    <tr style="border:1px solid firebrick">
+            <td>Название</td>
+            <td>Размеры</td>
+            <td>Цена</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шашлык говядина</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>300, 200, 100 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шашлык Баранина</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>450, 300, 150 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шашлык свинина</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>600, 400, 200 рублей</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Шашлык курица</td>
+            <td>Большой, Средний , Маленький</td>
+            <td>300, 200, 100 рублей</td>
+        </tr>
     </table>
     <p><img src=""/></p>
 </html>
